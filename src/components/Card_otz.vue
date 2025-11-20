@@ -50,9 +50,9 @@ defineProps({
 
 <style scoped>
 .block {
-  background-color: #434345;
-  padding: 25px;
-  color: white;
+  background-color: var(--cards);
+  padding: 30px;
+  color: var(--text);
   display: flex;
   flex-direction: column;
   gap: 1em;
@@ -60,6 +60,10 @@ defineProps({
 }
 .name {
   font-size: 30px;
+}
+.svg {
+  width: 30px;
+  height: 30px;
 }
 .name_stars {
   display: flex;
@@ -81,10 +85,11 @@ defineProps({
   .text {
     font-size: 16px;
   }
-
   .svg {
-    width: 30px;
-    height: 30px;
+    width: 20px;
+    height: 20px;
   }
+
+
 }
 </style>

@@ -27,11 +27,11 @@ defineProps({
 .block {
   padding: 20px 25px;
   border-radius: 15px;
-  background-color: #eeeeee;
+  background-color: var(--cards);
   position: relative;
   display: flex;
   flex-direction: column;
-  color: #434345;
+  color: var(--text);
   gap: 1em;
 }
 .block:hover {

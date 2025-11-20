@@ -4,11 +4,13 @@
   --zagalovok: red;
   --blue: #1551e5;
   --text: #434345;
+  --cards: #d4d2d2;
 }
 :root[data-theme="dark"] {
   --base: black;
   --zagalovok: white;
   --blue: #434345;
   --text: white;
+  --cards: #434345;
 }
 
