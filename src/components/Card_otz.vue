@@ -50,7 +50,7 @@ defineProps({
 
 <style scoped>
 .block {
-  background-color: var(--blue);
+  background-color: #434345;
   padding: 25px;
   color: white;
   display: flex;

@@ -4,7 +4,7 @@ import Zagolovok from '../components/Zagolovok.vue'
 const name = ['Шорты', 'Футболка', 'Кофта', 'Бутсы']
 
 const prise = [999, 1499, 3499, 9999]
-const img = ['/public/tovar1.png', '/public/tovar2.png', '/public/tovar3.png', '/public/tovar4.png']
+const img = ['./public/tovar1.png', './public/tovar2.png', './public/tovar3.png', './public/tovar4.png']
 </script>
 
 <template>
