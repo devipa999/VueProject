@@ -14,7 +14,7 @@ import Zagolovok from './Zagolovok.vue'
      <div class="about_image">
        <picture>
          <source media="(width< 767px)" srcset="/public/home_about_mb.png">
-         <img src=".565/public/home_about.png" alt="">
+         <img src="/public/home_about.png" alt="">
        </picture>
 
      </div>

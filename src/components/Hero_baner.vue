@@ -14,7 +14,7 @@
 }
 .container {
   width: 1200px;
-  background-image: url(/public\HeroBaner.webp);
+  background-image: url(../public\HeroBaner.webp);
   background-position: center;
   height: 700px;
   margin: 0 auto;
