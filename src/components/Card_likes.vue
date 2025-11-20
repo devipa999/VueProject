@@ -37,8 +37,8 @@ defineProps({
   gap: 1em;
 }
 .block:hover {
-  box-shadow: 0 25px 50px -12px #1551e5;
-  color: #1551e5;
+  box-shadow: 0 0 20px 5px var(--shadow);
+  color: var(--shadow);
   transition-duration: 400ms;
 }
 @media screen and (width< 1279px) {

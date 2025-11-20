@@ -3,6 +3,7 @@
   --base: white;
   --zagalovok: red;
   --blue: #1551e5;
+  --shadow: #1551e5;
   --text: #434345;
   --cards: #d4d2d2;
 }
@@ -12,5 +13,7 @@
   --blue: #434345;
   --text: white;
   --cards: #434345;
+  --shadow: white;
+
 }
 
