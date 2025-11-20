@@ -14,7 +14,7 @@
 }
 .container {
   width: 1200px;
-  background-image: url(./public/HeroBaner.webp);
+  background-image: url(/public/HeroBaner.webp);
   background-position: center;
   height: 700px;
   margin: 0 auto;
@@ -25,7 +25,7 @@
   color: white;
   font-size: 60px;
   font-weight: 800;
-  /* padding-bottom: 5%; */
+
 }
 .p1 {
   text-align: right;

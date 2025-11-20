@@ -153,17 +153,11 @@ const click = () => {
 <style scoped>
 .svg {
   position: absolute;
-  /* padding-left: 80%; */
-  /* padding-left: -1em; */
-  /* padding-top: 4%; */
   margin-left: 94%;
   margin-top: 1.5%;
 }
 
-.svg_burger {
-  /* background-color: white; */
-  /* position: absolute; */
-}
+
 header {
   background: var(--blue);
 
@@ -177,9 +171,7 @@ header {
 span {
   font-weight: 500;
 }
-.header_logo {
-  min-width: 258px;
-}
+
 .header_input {
   position: relative;
   height: 35px;
@@ -232,9 +224,7 @@ span {
   .Container {
     width: 700px;
   }
-  .header_logo {
-    min-width: 125px;
-  }
+
   .header_icons{
     width: 15%;
   }

@@ -42,7 +42,6 @@ const img = ['../public/tovar1.png', '../public/tovar2.png', '../public/tovar3.p
    }
    .cards_block{
      grid-template-columns: repeat(2, 45%);
-     //justify-content: space-between;
      column-gap: 5%;
      padding: 0 2em;
    }
