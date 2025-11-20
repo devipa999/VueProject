@@ -37,7 +37,7 @@
 
 @media screen and (width< 1279px) and (width>767px) {
   .container {
-    background-image: url(/public\HeroBaner_tb.webp);
+    background-image: url(/public/HeroBaner_tb.webp);
     width: 700px;
     height: 378px;
     font-size: 34px;

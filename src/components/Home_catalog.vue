@@ -10,7 +10,7 @@ const categ = ['Женщинам', 'Мужчинам', 'Детям', 'Обувь
     <div class="block">
       <KategorCard
         v-for="n in 4"
-        :img="'/public/Catalog' + n + '.png'"
+        :img="'/Catalog' + n + '.png'"
         :text="categ[n - 1]"
       ></KategorCard>
     </div>
