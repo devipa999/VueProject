@@ -56,7 +56,7 @@ const click = () => {
               stroke-linecap="round"
             />
           </svg>
-          <span>Каталог+===</span>
+          <span>Каталог</span>
         </router-link>
         <div class="header_input">
           <input class="input" type="text" />
