@@ -76,6 +76,7 @@ defineProps({
 }
 .text {
   font-size: 18px;
+  text-align: justify;
 }
 
 @media screen and (width< 767px) {

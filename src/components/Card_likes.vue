@@ -16,13 +16,15 @@ defineProps({
 
 <style scoped>
 .name {
-  font-size: 36px;
+  font-size: 38px;
   hyphens: auto;
   text-align: center;
 }
 .text {
   hyphens: auto;
   font-size: 24px;
+
+
 }
 .block {
   padding: 20px 25px;
